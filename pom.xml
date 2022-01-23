@@ -28,7 +28,11 @@
   </dependencies>
 
   <build>
+<<<<<<< HEAD
   <finalName>java-jenkins-docker</finalName>
+=======
+   <finalName>java-jenkins-docker</finalName>
+>>>>>>> d8722f86b3ea42135f53b4ac051cf5802fdc6039
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
